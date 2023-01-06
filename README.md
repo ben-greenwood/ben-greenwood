@@ -6,8 +6,6 @@ Currently a _Senior Product Engineer_ at [Aklimate](https://www.getaklimate.com)
 
 Previously, [Appear Here](https://appearhere.co.uk) and [mmtm](https://mmtm.io).
 
-I primarily work with a Ruby on Rails backend and a React frontend. I am currently learning Elixir and Phoenix while also getting to grips with TypeScript.
-
 - [Visit my personal website](https://beanacre.xyz)
 - [Follow me on Twitter](https://twitter.com/_beanacre)
 - [Get in touch](mailto:ben.224@hotmail.co.uk)
