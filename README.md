@@ -7,5 +7,5 @@ Currently a _Senior Product Engineer_ at [Aklimate](https://www.getaklimate.com)
 Previously, [Appear Here](https://appearhere.co.uk) and [mmtm](https://mmtm.io).
 
 - [Visit my personal website](https://beanacre.xyz)
-- [Follow me on Twitter](https://twitter.com/_beanacre)
+- [Follow me on Twitter](https://twitter.com/bengreenwood)
 - [Get in touch](mailto:ben.224@hotmail.co.uk)
